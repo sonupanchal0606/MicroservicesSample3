@@ -42,6 +42,10 @@ Create a blank Visual Studio solution named `MicroservicesSolution`, then add th
 - Subscribes to `ProductCreated` events
 - Consumes messages using `ProductCreatedConsumer` to update its own DB
 
+### ✅ Add Shared.Messages as a project reference to both:
+- ProductService.csproj
+- OrderService.csproj
+
 ---
 
 ## 🔄 Communication Flow
