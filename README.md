@@ -1,6 +1,4 @@
-# MicroservicesSample3
-
-# 🛠️ MicroservicesSolution
+# 🛠️ MicroservicesSample3
 
 A simple microservices-based architecture built using .NET 8, RabbitMQ, Ocelot API Gateway, and PostgreSQL — with messaging handled via MassTransit.
 
